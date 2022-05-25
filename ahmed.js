@@ -1,6 +1,3 @@
-
-
-
 import React from "react";
 const add = (a, b) => a + b;
 function ahmed() {
@@ -8,4 +5,3 @@ function ahmed() {
 }
 
 export default ahmed;
-
